@@ -336,6 +336,7 @@ Questions
 
 .arrow-down {
   display: inline-block;
+  transition: var(--transition);
 }
 
 .rotate-arrow {
